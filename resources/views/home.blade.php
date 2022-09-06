@@ -22,7 +22,7 @@
         <h1 class="text-4xl font-extrabold tracking-tight text-left text-gray-900 sm:text-5xl md:text-6xl md:text-center">
             <span class="block">Perizinan Akses <span class="block mt-1 text-purple-500 lg:inline lg:mt-0" data-primary="purple-500">Server DFS</span></span>
         </h1>
-        <p class="w-full mx-auto text-base text-left text-gray-500 md:max-w-md sm:text-lg lg:text-2xl md:max-w-3xl md:text-center">
+        <p class="w-full mx-auto text-base text-left text-gray-500 sm:max-w-md sm:text-lg lg:text-2xl md:max-w-3xl md:text-center">
             Mau akses server DSF? Silahkan Minta Perizinan Dulu Ya Sob!
         </p>
         <div class="relative flex flex-col justify-center md:flex-row md:space-x-4">
